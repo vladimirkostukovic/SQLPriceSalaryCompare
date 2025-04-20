@@ -33,7 +33,11 @@ Tento projekt analyzuje vývoj mezd a cen základních potravin v České republ
 ## Struktura projektu
 SQLPriceSalaryCompare/
 ├── README.md
+
 ├── sql/                     # SQL skripty k jednotlivým otázkám
+
 ├── data/                    # vystupni soubory CSV, Pivots
+
 ├── visualizations/          # http://176.102.66.84:3000/public/dashboard/b31103ad-0a60-434a-9e15-23e0405a2f72
+
 ├── docs/                    # Finální PDF dokumentace
